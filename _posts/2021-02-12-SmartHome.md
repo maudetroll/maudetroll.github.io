@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Smart Home"
+subtitle: ""
 date:   2021-02-12 14:57:13 +0100
 categories: Info
 ---
