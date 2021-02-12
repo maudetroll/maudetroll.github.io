@@ -5,7 +5,7 @@ subtitle: ""
 date:   2021-02-12 14:57:13 +0100
 categories: Info
 ---
-Smart-Home Ideen 
+
 # Smart-Home Ideen
 
 ## Vorabinformationen: 
