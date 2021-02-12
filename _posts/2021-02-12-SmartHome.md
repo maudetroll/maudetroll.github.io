@@ -49,7 +49,7 @@ Der Versand erfolgt der Benachrichtug erfolgt mit dem [MQTT-Protokoll](https://m
 Ventilatoren sind im Sommer echt praktisch :smiley: \
 Allerdings kann man bei besonders günstigen Produkten meist nur zwischen AUS/EIN unterscheiden. \
 Damit ist man dauerhaft dem nervigen Geräusch des Lüfters ausgesetzt. \
-Dieses Problem kann man mit Hilfe des ESP8266 beheben, indem man über ein Relais den Ventilator ein und ausschaltet. Dabei wird die Raumtemperatur über einen Temperatursensor gemessen und mit der SOLL-Temperatur vergliechen. Sobald diese überschritten wird, schaltet sich der Ventilator ein. Ist die Wunschtemperatur erreicht, schaltet sich der Ventilitor aus.
+Dieses Problem kann man mit Hilfe des ESP8266 beheben, indem man über ein Relais den Ventilator ein und ausschaltet. Dabei wird die Raumtemperatur über einen Temperatursensor gemessen und mit der SOLL-Temperatur vergliechen. Sobald diese überschritten wird, schaltet sich der Ventilator ein. Ist die Wunschtemperatur erreicht, schaltet sich der Ventilator aus.
 
 ### Steuerung
 
