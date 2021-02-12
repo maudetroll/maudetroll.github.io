@@ -1,4 +1,4 @@
-# 4 Smart-Home Ideen
+# Smart-Home Ideen
 
 ## Vorabinformationen: 
 Die hier aufgeführten Ideen sind als Inspiration zu verstehen. \
