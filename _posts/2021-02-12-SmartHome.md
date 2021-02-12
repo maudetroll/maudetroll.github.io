@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Smart Home
-subtitle: -
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [SmartHome]
+title:  "Smart Home"
+date:   2021-02-12 14:57:13 +0100
+categories: Info
 ---
 
 # Smart-Home Ideen
